@@ -1,5 +1,0 @@
-site_name: Melvins Docs
-pages:
-- Home: index.md
-theme:
-  name: 'material'
