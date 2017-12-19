@@ -1,5 +1,5 @@
 site_name: Melvins Docs
 pages:
-- Home: index.md
+- Home: docs/index.md
 theme:
   name: 'material'
